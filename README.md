@@ -30,4 +30,5 @@ Projeto de ETL e análise de dados desenvolvido em parceria com @LucasBrandaoGom
   - A partir das consultas criamos dashboards com o Google Data Studio
 
 ## Dashboards
+https://user-images.githubusercontent.com/98925230/156645308-62974847-ab56-4adb-86ad-02d49249b99c.mov
 
